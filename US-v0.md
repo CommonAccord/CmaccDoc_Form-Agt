@@ -30,6 +30,10 @@ This.sec/3=This {Doc.Ti} (this "{_Agreement}") is made as of {EffectiveDate.YMD}
 
 Why.Ti=Recitals
 
+Note=That - is the part that transitions from the introduction into the sections of the agreement.  This is a heavy-duty version, intended to be good in most jurisdictions, at the (slight) cost of having a bit of surplusage for some jurisdictions. 
+
+That.sec=In consideration of the mutual promises contained in {_this_Agreement} and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the {_parties} agree as follows:
+
 By.Ti=Signature
 
 Note=As with "Among," By assumes two parties but you can make more - By.secs={By.secs/3} or 4, etc.
