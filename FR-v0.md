@@ -1,5 +1,7 @@
-Note=This file is presented in roughly the order in which the page is built.  The "Model.Root" expands into the list of the divisions of the document, the divisions expand into sections, etc.
+Note=This file is presented in roughly the order in which the page is built.  The "Model.Root" expands into the list of the divisions of the document, the divisions expand into sections, etc.  See also the notes to http://github.com/CommonAccord/Form-Agt/US-v0.md.
 
+Note=We use a French defined term, but a US name for the parameter.  That improves some interchangeability, but at some cost.  It is possible to make translations tables - or a notion that there is a universal and cascading localizations.
+ 
 Head.EffectiveDate.sec={_Date_Effective}: {EffectiveDate.YMD}
 
 Among.Ti/2=Entre :
@@ -28,7 +30,9 @@ Why.Ti=Etant préalablement rappelé que :
 
 That.sec=Il a été convenu et arrêté ce qui suit :
 
-Note=Sec.* is the sections of the agreement - the principal text.  There is an option for a heading, but that is rare.  We also include a default set of top-level subject matter divisions.
+Note="sec" is the sections of the agreement - the principal text.  There is an option for a heading, but that is rare.  We also include a default set of top-level subject matter divisions.
+
+sec=Le texte de l'accord.
 
 By.Ti=Signature
 
@@ -42,7 +46,7 @@ By.secs/4=<table><tr><td valign=top>{P1.FR.Contract.By.Sec}</td><td valign=top> 
  
 Annex.Ti=Annexes
 
-Note=The Oxford comma.  Establishing the default as no such comma.  But can override in your documents.
+Note=The Oxford comma.  In French there is no Oxford comma, so most text will be written without such commas in the first place.  But perhaps some lists will be made using "universal" methods.  Establishing the default as no such comma.
 
 q=</i>
 
