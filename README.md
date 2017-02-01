@@ -10,4 +10,11 @@ Note the choice of -v0 to refer to the version.  The idea is that -v0 is the "cu
 
 This is experimental, and let’s see if it feels good.
 
-Note=A use of this can be seen at http://source.commonaccord.org/index.php?action=doc&file=S/Sandbox/Form/Form-Agt-US-Demo.md  We expect that soon there will be multiple uses, including at http://deux.commonaccord.org.
+Note=A use of this can be seen at:
+  
+    http://source.commonaccord.org/index.php?action=doc&file=S/Sandbox/Form/Form-Agt-FR-Demo.md
+    
+    http://source.commonaccord.org/index.php?action=doc&file=S/Sandbox/Form/Form-Agt-US-Demo.md  
+    
+    
+We expect that soon there will be multiple uses, including at http://deux.commonaccord.org.
