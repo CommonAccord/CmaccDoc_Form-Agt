@@ -4,17 +4,17 @@ Head.EffectiveDate.sec={_Effective_Date}: {EffectiveDate.YMD}
 
 Note=Parties.  In English we distinguish between an agreement <i>betweeen</i> two parties and an agreement <i>among</i> three or more.  In the common frame there is a default to two parties because that is most common, but you can change that with Among.Ti={Among.Ti/3} and Among.secs={Among.secs/3} or 4... 
 
-Among.Ti/2=By and Between
+Among.Ti/2=By and Between:
 
-Among.Ti/3=By and Among
+Among.Ti/3=By and Among:
 
 Among.secs={Among.secs/2}
 
 Among.secs/2=<ul type="none" style="padding-left: 0"><li>{P1.US.Contract.Among.Sec}</li><li>{P2.US.Contract.Among.Sec}</li></ul>
 
-Among.Secs/3=<ul type="none" style="padding-left: 0"><li>{P1.US.Contract.Among.Sec}</li><li>{P2.US.Contract.Among.Sec}</li><li>{P3.US.Contract.Among.Sec}</li><li>{P4.US.Contract.Among.Sec}</li></ul>
+Among.secs/3=<ul type="none" style="padding-left: 0"><li>{P1.US.Contract.Among.Sec}</li><li>{P2.US.Contract.Among.Sec}</li><li>{P3.US.Contract.Among.Sec}</li></ul>
 
-Among.Secs/4=<ul type="none" style="padding-left: 0"><li>{P1.US.Contract.Among.Sec}</li><li>{P2.US.Contract.Among.Sec}</li><li>{P3.US.Contract.Among.Sec}</li><li>{P4.US.Contract.Among.Sec}</li></ul>
+Among.secs/4=<ul type="none" style="padding-left: 0"><li>{P1.US.Contract.Among.Sec}</li><li>{P2.US.Contract.Among.Sec}</li><li>{P3.US.Contract.Among.Sec}</li><li>{P4.US.Contract.Among.Sec}</li></ul>
 
 Among.Def.sec=Each a "{_party}" and collectively the "{_parties}."
 

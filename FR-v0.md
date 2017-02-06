@@ -10,9 +10,9 @@ Among.Ti/3=Entre :
 
 Among.secs/2=<ul type="none" style="padding-left: 0"><li>{P1.FR.Contract.Among.Sec}</li><li>{P2.FR.Contract.Among.Sec}</li></ul>
 
-Among.Secs/3=<ul type="none" style="padding-left: 0"><li>{P1.FR.Contract.Among.Sec}</li><li>{P2.FR.Contract.Among.Sec}</li><li>{P3.FR.Contract.Among.Sec}</li><li>{P4.FR.Contract.Among.Sec}</li></ul>
+Among.secs/3=<ul type="none" style="padding-left: 0"><li>{P1.FR.Contract.Among.Sec}</li><li>{P2.FR.Contract.Among.Sec}</li><li>{P3.FR.Contract.Among.Sec}</li></ul>
 
-Among.Secs/4=<ul type="none" style="padding-left: 0"><li>{P1.FR.Contract.Among.Sec}</li><li>{P2.FR.Contract.Among.Sec}</li><li>{P3.FR.Contract.Among.Sec}</li><li>{P4.FR.Contract.Among.Sec}</li></ul>
+Among.secs/4=<ul type="none" style="padding-left: 0"><li>{P1.FR.Contract.Among.Sec}</li><li>{P2.FR.Contract.Among.Sec}</li><li>{P3.FR.Contract.Among.Sec}</li><li>{P4.FR.Contract.Among.Sec}</li></ul>
 
 Among.Def.sec=Dénommés individuellement une « {_partie} » et collectivement les « {_parties} »
  
