@@ -32,8 +32,6 @@ That.sec=Il a été convenu et arrêté ce qui suit :
 
 Note="sec" is the sections of the agreement - the principal text.  There is an option for a heading, but that is rare.  We also include a default set of top-level subject matter divisions.
 
-sec=Le texte de l'accord.
-
 By.Ti=Signature
 
 By.0.sec=Fait à lieu de conclusion de l'{_Accord}, le {DateSignature.YMD}.
